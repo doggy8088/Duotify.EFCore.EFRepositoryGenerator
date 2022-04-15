@@ -52,7 +52,7 @@ namespace Duotify.EFCore.EFRepositoryGenerator
                     });
                 });
 
-                runner.SubCommand("generate", "說明待補", c =>
+                runner.SubCommand("generate", "Generate a set of class files that implements Repository and UoW pattern for a DbContext", c =>
                 {
                     c.Option("output", "output-dir", "o", Resources.OutputOptionDescription);
                     c.Option("project", "project", "p", Resources.ProjectOptionDescription);

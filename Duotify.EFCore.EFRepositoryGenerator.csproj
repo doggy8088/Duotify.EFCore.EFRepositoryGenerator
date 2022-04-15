@@ -15,8 +15,8 @@
 		<Description>A supplemental tool for generating EFCore Entity Model class's [ModelMetadataType] partial class. (a.k.a. Buddy Class).</Description>
 		<Copyright>Copyright © 2022 Will 保哥</Copyright>
 		<PackageId>Duotify.EFCore.EFRepositoryGenerator</PackageId>
-		<Version>1.0.0</Version>
-		<PackageVersion>1.0.1</PackageVersion>
+		<Version>1.0.2</Version>
+		<PackageVersion>1.0.2</PackageVersion>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageProjectUrl>https://github.com/doggy8088/Duotify.EFCore.EntityPartialGenerator</PackageProjectUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
