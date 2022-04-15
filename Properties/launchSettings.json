@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Duotify.EFCore.RepositoryGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "generate -v",
+      "workingDirectory": "C:\\Users\\mio\\source\\repos\\WebApplication1\\WebApplication1"
+    }
+  }
+}
